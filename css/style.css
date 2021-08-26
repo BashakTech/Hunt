@@ -140,7 +140,7 @@ nav ul li:hover a::before {
 }
 
 #banner-part .banner-text .text a:hover {
-    background: red;
+    background: blue;
     color: #08080c;
     border-color: #d6c6b2;
     box-shadow: 0px 0px 3px 1px #d6c6b2;
